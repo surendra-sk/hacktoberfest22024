@@ -1,3 +1,4 @@
+// implementing the kadanes algorithm in java
 import java.util.Scanner;
 
 class KadanesAlgorithm {
